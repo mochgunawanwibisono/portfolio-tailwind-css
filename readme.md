@@ -35,4 +35,4 @@ Start the Tailwind CLI build process
 
 ## Demo
 
-http://127.0.0.1:3000/index.html
+https://mochgunawanwibisono.github.io/portfolio-tailwind-css/
